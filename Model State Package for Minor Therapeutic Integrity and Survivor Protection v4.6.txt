@@ -1,0 +1,307 @@
+﻿Model State Package for Minor Therapeutic Integrity and Survivor Protection
+ARTICLE 1. SHORT TITLE, PURPOSE, AND CONSTITUTIONAL BOUNDARY
+Section 1. Short Title.
+This Act may be cited as the “Minor Therapeutic Integrity and Survivor Protection Act.”
+Section 2. Purpose.
+The purposes of this Act are to:
+1. protect minors from coercive, degrading, aversive, retaliatory, leverage-backed, and materially deceptive treatment practices in covered settings;
+2. preserve developmentally appropriate, open-ended counseling that permits exploration without independently prohibited conduct;
+3. preserve ordinary parent-child conversation, sermons, prayer, and uncompensated pastoral discussion outside covered settings;
+4. provide traditional civil and professional accountability for injury, fraud, consent defects, and records abuse;
+5. prohibit the use of public funds, public contracts, public placements, and public referrals for prohibited practices; and
+6. preserve records, reporting, and oversight sufficient to protect minors and support reviewable public accountability.
+Section 3. Rule of Construction and Constitutional Boundary.
+(a) No viewpoint-only liability.
+Nothing in this Act imposes liability based solely on the viewpoint expressed in a voluntary counseling conversation.
+(b) No speech-alone prohibition.
+No person shall be held liable under Article 4 based solely on speech in a voluntary counseling conversation absent independently prohibited coercive, aversive, degrading, retaliatory, leverage-backed, or materially deceptive conduct as defined in this Act.
+(c) Protected ordinary family and religious life.
+Nothing in this Act prohibits ordinary parent-child conversation, sermons, prayer, or uncompensated pastoral discussion outside a covered setting.
+(d) Protected open-ended counseling.
+Nothing in this Act prohibits developmentally appropriate, open-ended counseling that permits exploration of identity, distress, behavior, family conflict, faith, values, or life goals without coercive, aversive, degrading, retaliatory, leverage-backed, or materially deceptive conduct.
+(e) Regulated subjects.
+This Act regulates defined coercive or leverage-backed practices with minors in covered settings, materially deceptive factual claims, professional misconduct, records and accountability duties, and the State’s own funding, contracting, placement, and referral decisions.
+(f) Construction against orthodoxy.
+This Act shall not be construed to prescribe a general orthodoxy of views, to prohibit abstract beliefs or viewpoints, or to regulate generalized speech outside the settings and conduct defined herein.
+(g) No claim for disagreement alone.
+No civil claim, licensing action, or public enforcement action shall arise under this Act from disagreement with therapeutic conclusions alone, absent independently prohibited conduct, material misrepresentation, or other violation defined by this Act.
+________________
+
+
+ARTICLE 2. LEGISLATIVE FINDINGS
+Section 4. Legislative Findings.
+The Legislature finds that:
+1. minors are entitled to protection from coercive, degrading, aversive, retaliatory, and materially deceptive treatment practices in professional, institutional, and treatment-like settings;
+2. the State has a substantial and compelling interest in protecting minors from serious psychological harm, coercion, fraud, and abuse in covered settings, including settings in which institutional leverage, dependency, or treatment authority is present, see Prince v. Massachusetts, 321 U.S. 158, 166–67 (1944);
+3. content-based speech restrictions are presumptively unconstitutional, and viewpoint discrimination is especially suspect; laws that regulate counseling speech based on viewpoint are constitutionally vulnerable, particularly as applied to voluntary talk therapy, and this Act is therefore drafted to avoid liability based solely on viewpoint or speech alone, see Chiles v. Salazar, 607 U.S. ___, slip op. at 7–23 (2026); Reed v. Town of Gilbert, 576 U.S. 155, 163 (2015); Rosenberger v. Rector & Visitors of Univ. of Va., 515 U.S. 819, 829 (1995);
+4. the Supreme Court has distinguished traditional malpractice, fraud, and factual-disclosure rules from laws that suppress counseling speech based on viewpoint, and this Act therefore relies on independently provable misconduct, causation, injury, deception, consent defects, records abuse, and related accountability mechanisms rather than viewpoint-only liability, see Chiles v. Salazar, 607 U.S. ___ (2026); Illinois ex rel. Madigan v. Telemarketing Assocs., Inc., 538 U.S. 600, 620 (2003); NIFLA v. Becerra, 585 U.S. 755, 768–70 (2018);
+5. the Legislature further finds that developmentally appropriate, open-ended counseling must remain lawful absent independently prohibited conduct, materially deceptive factual claims, or other independently actionable violations defined by this Act;
+6. the American Academy of Child and Adolescent Psychiatry states that clinicians should facilitate developmentally appropriate, open exploration of sexual orientation, gender identity, and gender expression without a predetermined outcome, and further states that imposed preferred-outcome interventions lack scientific credibility and clinical utility and should not be part of behavioral health treatment for children and adolescents, see AACAP, Conversion Therapy Policy Statement (2018);
+7. the Legislature therefore intends to regulate defined coercive, aversive, retaliatory, leverage-backed, and materially deceptive practices, along with traditional civil, professional, and institutional accountability mechanisms, rather than to impose liability based solely on a speaker’s abstract views or the mere existence of a counseling conversation;
+8. the State also has authority to govern what it funds, contracts for, purchases, places minors into, or refers minors into through public institutions and public programs; and
+9. records, sealed minor identities, reporting, and reviewable oversight are necessary to protect minors, support due process, and preserve public accountability.
+________________
+
+
+ARTICLE 3. DEFINITIONS
+Section 5. Definitions.
+For purposes of this Act:
+(a) Minor means an individual under eighteen years of age.
+(b) Covered provider means a person who, whether licensed or unlicensed, provides or purports to provide counseling, psychotherapy, mental-health treatment, organized treatment-like services, or comparable corrective or therapeutic services to a minor in a covered setting.
+(c) Covered program means an organization, institution, facility, school-based service, residential program, ministry-for-fee service, telehealth service, online service, contractor, or other organized service that provides or arranges services through a covered provider to minors in a covered setting.
+(d) Covered setting means a setting in which a covered provider or covered program provides or arranges organized treatment-like services for a minor.
+(e) Primary treatment/correction purpose means that a service is held out or functions chiefly to diagnose, treat, cure, correct, change, suppress, or modify a minor’s mental state, identity-related expression, or behavior, rather than merely to provide general education, ordinary pastoral care, recreation, peer fellowship, or general youth programming.
+(f) Organized treatment-like service means a service that functions as treatment or correction by objective features, regardless of label.
+(g) Objective coverage factors.
+A service may be deemed an organized treatment-like service when it has a primary treatment/correction purpose under subsection (e) and four or more of the following factors are present:
+1. recurring or scheduled sessions;
+2. intake procedures, enrollment, or screening;
+3. treatment plans, behavior plans, corrective plans, or analogous protocols;
+4. scripted exercises, assignments, journaling requirements, role-play, confession protocols, or progress tracking;
+5. supervision by a program, institution, contractor, or organizational chain;
+6. payment, billed services, fundraising tied to the service, or organized donation-supported service delivery;
+7. institutional referral, placement, routing, or programmatic handoff;
+8. claims of therapeutic, corrective, curative, behavioral, or treatment-like purpose;
+9. rules, privileges, housing, access, treatment continuation, educational access, or support services conditioned on participation or compliance; or
+10. maintenance of records, files, intake forms, consent forms, schedules, or similar service administration.
+(h) No single-factor coverage rule.
+No single factor listed in subsection (g), and neither progress tracking nor scripted exercises alone, shall create coverage absent a primary treatment/correction purpose.
+(i) Prohibited practice means conduct defined in Section 7.
+(j) Coercive conduct means conduct that uses pressure, compulsion, threats, implied threats, abuse of authority, dependency, fear, shame, or materially consequential leverage to obtain compliance from a minor.
+(k) Institutional leverage means the use of actual or threatened loss, denial, withdrawal, reduction, or adverse change in treatment, housing, schooling, placement, privileges, family-access mediation, institutional support, program status, or comparable benefits or opportunities in order to obtain compliance from a minor.
+(l) Aversive practice means the use of pain, fear, intimidation, humiliation, deprivation, or other punitive techniques to obtain compliance from a minor.
+(m) Degrading conduct means conduct that humiliates, shames, demeans, or requires a minor to perform degrading exercises, rituals, or scripted renunciations as a condition of treatment, support, or program participation.
+(n) Retaliatory conduct means conduct that punishes, threatens, downgrades, excludes, removes access, or otherwise imposes adverse consequences because a minor refused to participate in a prohibited practice.
+(o) Materially deceptive factual claim means a materially false or misleading representation of fact, or materially misleading omission of fact where disclosure is required by law, made in advertising, intake materials, consent materials, billing materials, program descriptions, professional descriptions, or comparable commercial or treatment-related communications, concerning:
+1. provider qualifications;
+2. the evidence base, safety profile, risks, expected outcomes, or professional endorsement of a service;
+3. whether a service is clinically recognized, evidence-based, professionally endorsed, legally authorized, or medically necessary; or
+4. any other material fact likely to affect a reasonable parent, guardian, or minor in deciding whether to begin or continue the service.
+(p) Open-ended counseling means developmentally appropriate counseling, assessment, support, psychotherapy, or comparable guidance that permits exploration without coercive conduct, aversive practices, degrading conduct, retaliatory conduct, institutional leverage, or materially deceptive factual claims.
+(q) Knowing material facilitation means scheduling, arranging, paying for, transporting to, contracting for, placing into, programmatically routing into, or otherwise materially coordinating a prohibited practice; it includes conduct by a person or entity that materially controls, materially benefits from, or materially coordinates such arrangement. Mere abstract discussion, generalized recommendation, or ordinary conversation standing alone does not constitute knowing material facilitation.
+(r) Public funds means any funds appropriated, reimbursed, granted, disbursed, or otherwise provided by the State or a political subdivision, including Medicaid, public education, child welfare, juvenile justice, grant, and contract funds.
+(s) State agency includes any department, board, commission, office, school district, public school, public university, county agency, child-welfare agency, juvenile-justice agency, Medicaid agency, or political subdivision of the State.
+Section 5(t). “Compelled identity-related compliance” means a compelled denial, renunciation, suppression, or scripted disavowal by a minor of the minor’s sexual orientation, gender identity, or gender expression.
+________________
+
+
+ARTICLE 4. CORE PROHIBITED PRACTICES IN COVERED SETTINGS
+Section 6. General Rule.
+A covered provider or covered program shall not knowingly or recklessly subject a minor to a prohibited practice in a covered setting.
+Section 7. Prohibited Practices.
+(a) Core prohibited mechanisms.
+ A prohibited practice occurs when a covered provider or covered program, in a covered setting and for the purpose of obtaining or enforcing compelled identity-related compliance from a minor, knowingly or recklessly engages in any of the following:
+1. uses an aversive practice;
+2. uses degrading conduct;
+3. uses coercive conduct, institutional leverage, or retaliatory conduct, including by conditioning treatment, housing, schooling, placement, privileges, program access, family-access mediation, community participation within a covered program, or support services on compelled identity-related compliance;
+4. isolates a minor from ordinary supports within a covered setting as a means of obtaining or enforcing compelled identity-related compliance; or
+5. requires a minor to participate in scripted renunciation, confession, corrective exercises, or comparable organized compliance rituals as a condition of continued access to treatment, housing, schooling, placement, privileges, or program support.
+(b) Material deception.
+ A prohibited practice also occurs when a covered provider or covered program knowingly or recklessly makes or causes to be made a materially deceptive factual claim in connection with services described in subsection (a), or in connection with services represented as addressing the matters for which compelled identity-related compliance is sought.
+(c) Material facilitation.
+ A prohibited practice also occurs when a covered provider or covered program knowingly materially facilitates conduct prohibited by this Section.
+Section 8. No Liability Based on Viewpoint Alone; Observable-Acts Construction.
+(a) No liability under this Article shall arise solely because a provider or program expressed a viewpoint in a voluntary counseling conversation.
+(b) Article 4 shall be construed to prohibit observable coercive, aversive, degrading, retaliatory, leverage-backed, condition-based, or materially deceptive acts in covered settings, and not to impose liability merely because a service addresses identity, distress, behavior, family conflict, faith, values, or related matters.
+(c) Liability under this Article requires independently prohibited conduct under Section 7.
+Section 9. No Label-Based Evasion.
+A service shall not escape coverage under this Article solely because it is labeled mentoring, coaching, discipleship, accountability work, ministry, peer support, wellness, character formation, or any similar term, if the service otherwise functions as an organized treatment-like service under Section 5.
+Section 10. No Payment Requirement.
+The absence of formal payment does not by itself remove a service from coverage if the service otherwise qualifies as an organized treatment-like service.
+________________
+
+
+ARTICLE 5. EXCLUSIONS AND SAFE HARBORS
+Section 11. Exclusions.
+This Act does not prohibit, without more:
+1. ordinary parent-child conversation outside a covered setting;
+2. sermons, prayer, religious instruction, or uncompensated pastoral discussion outside a covered setting;
+3. a minor’s own decision to discuss faith, values, celibacy, behavior, relationships, identity, or distress;
+4. open-ended counseling;
+5. neutral enforcement of generally applicable rules against threats, violence, harassment, or unlawful conduct, provided such rules are not used as a pretext for prohibited practices; or
+6. abstract advocacy, teaching, or generalized speech outside a covered setting.
+Section 12. Good-Faith Exploratory Counseling Safe Harbor.
+A provider does not violate this Act by engaging in good-faith, developmentally appropriate counseling that allows a minor to discuss identity, distress, behavior, faith, values, relationships, or life goals, so long as the provider does not engage in prohibited conduct under Article 4, make materially deceptive factual claims, or otherwise violate Articles 6 through 9.
+________________
+
+
+ARTICLE 6. CIVIL REMEDIES
+Section 13. Private Right of Action.
+A person subjected to a prohibited practice while a minor may bring a civil action against:
+1. the covered provider;
+2. the covered program;
+3. any employer, supervisor, contractor, institution, or entity that authorized, directed, knowingly facilitated, materially coordinated, materially benefited from, or recklessly failed to prevent the prohibited practice; and
+4. any person or entity that knowingly or recklessly made or profited from a materially deceptive factual claim connected to services for the minor.
+Section 14. Elements.
+(a) A claim under this Article based on professional breach, negligence, or other misconduct shall require proof of:
+1. a covered provider or covered program relationship, or another comparable duty-producing relationship recognized by law;
+2. breach of duty or other independently actionable misconduct under this Act or other law;
+3. causation; and
+4. injury.
+(b) A claim under this Article based on materially deceptive factual claims shall require proof of:
+1. scienter, meaning that the defendant knowingly or recklessly made or caused to be made the materially deceptive factual claim;
+2. materiality;
+3. actual reliance by the parent, guardian, or minor to the extent required by applicable state law;
+4. injury; and
+5. any additional element required by applicable state consumer-protection, fraud, or misrepresentation law.
+Section 15. Available Relief.
+A court may award:
+1. actual damages;
+2. statutory damages of not less than [insert amount] per violation or course of prohibited practice;
+3. punitive damages where otherwise authorized by state law;
+4. injunctive relief;
+5. declaratory relief;
+6. attorney fees and costs to a prevailing plaintiff where authorized by state law or this Act; and
+7. any other relief authorized by law.
+Section 16. Limitations Period.
+An action under this Article may be commenced not later than the later of:
+1. [insert number] years after the plaintiff reaches eighteen years of age; or
+2. [insert number] years after the plaintiff discovers, or reasonably should have discovered, the injury and its connection to the prohibited practice.
+The limitations period shall be tolled during any period of fraudulent concealment, intimidation, legal incapacity, or other equitable tolling recognized by state law.
+Section 17. No Displacement of Other Claims.
+A claim under this Act does not preclude any other claim available under state law, including malpractice, negligence, consumer protection, fraud, battery, assault, negligent misrepresentation, breach of fiduciary duty, or records-based claims.
+________________
+
+
+ARTICLE 7. CONSUMER PROTECTION AND PROFESSIONAL ACCOUNTABILITY
+Section 18. Consumer Protection.
+A materially deceptive factual claim connected to services for a minor shall constitute an unfair or deceptive act or practice under [State Consumer Protection Act] to the extent authorized by that Act.
+Section 19. Unprofessional Conduct.
+For any licensed profession regulated by the State, a violation of this Act constitutes unprofessional conduct when based on:
+1. independently prohibited conduct under Article 4;
+2. materially deceptive factual claims;
+3. consent failures required by law;
+4. records destruction, concealment, or falsification;
+5. retaliation;
+6. knowing material facilitation of prohibited conduct; or
+7. breach of the applicable professional standard of care.
+Section 20. No Discipline Based on Abstract Viewpoint or Open-Ended Counseling Alone.
+(a) No licensing board may impose discipline under this Act based solely on a provider’s abstract views, beliefs, or generalized speech outside a covered setting.
+(b) No licensing board may impose discipline under this Act solely because a provider offered open-ended counseling consistent with Section 12, absent independently prohibited conduct, materially deceptive factual claims, consent defects, records violations, or another independently provable breach recognized by this Act or other law.
+(c) Licensing discipline under this Act shall require the same independent proof of prohibited conduct, materially deceptive factual claims, consent defects, records violations, or other provable breach that would support liability or discipline under the applicable section.
+Section 21. Board Authority.
+The applicable [Licensing Board] may investigate complaints, subpoena records as authorized by law, require corrective action, order supervision or training, suspend or revoke licenses, impose discipline, and refer matters for civil or criminal enforcement where independently appropriate.
+________________
+
+
+ARTICLE 8. RECORDS, NOTICE, AND EVIDENTIARY SAFEGUARDS
+Section 22. Record Retention.
+A covered provider or covered program serving minors shall preserve for not less than [insert number] years after the minor reaches the age of majority:
+1. intake materials;
+2. consent materials;
+3. treatment plans, corrective plans, or analogous protocols;
+4. written exercises, assignments, scripts, or program instructions;
+5. billing and payment records;
+6. referral and placement records;
+7. advertisements and marketing materials;
+8. session notes or comparable records, subject to privacy law; and
+9. communications or records otherwise required by law.
+Section 23. Procedural Notice.
+A covered provider or covered program serving minors shall provide factual, non-ideological written notice that:
+1. this State prohibits certain coercive, aversive, degrading, retaliatory, leverage-backed, and materially deceptive practices with minors;
+2. complaints may be filed with [Department] and relevant licensing boards;
+3. records are subject to preservation requirements under state law; and
+4. minor identities are protected as provided by law.
+Section 24. Destruction, Concealment, or Falsification of Records.
+Knowingly destroying, concealing, materially altering, or falsifying records relevant to a complaint, investigation, licensing matter, or civil action under this Act is a separate violation and may support civil penalties, adverse evidentiary inferences, professional discipline, and any other sanction authorized by law.
+Section 25. Adverse Inferences.
+Where a covered provider or covered program was under a duty to preserve records under this Act and knowingly failed to do so, the court or tribunal may impose adverse evidentiary inferences and any other appropriate remedy authorized by law.
+Section 26. Sealed Minor Identities.
+Any record or proceeding under this Act shall protect minor identities and medical or mental-health information as required by law. Public disclosures shall be de-identified except as otherwise authorized by law.
+________________
+
+
+ARTICLE 9. PUBLIC FUNDING, PROCUREMENT, PLACEMENT, AND REFERRAL
+Section 27. Public Funding Restriction.
+No public funds shall be used to pay for, reimburse, subsidize, grant, or contract for a prohibited practice.
+Section 28. Medicaid and Public Insurance.
+The [State Medicaid Agency/Public Insurance Agency] shall not reimburse prohibited practices and shall adopt billing, auditing, and recoupment rules necessary to enforce this Section.
+Section 29. Public Referral and Placement Restriction.
+No state agency, public school, public university, child-welfare agency, juvenile-justice agency, or publicly funded contractor shall knowingly materially facilitate, refer a minor into, or place a minor into a prohibited practice.
+Section 30. Contracting and Procurement Restriction.
+A state agency shall not enter into, renew, or maintain a contract with a person or entity that knowingly performs, arranges, materially coordinates, or materially facilitates prohibited practices for minors.
+Section 31. Foster Care, Residential Care, and Juvenile Settings.
+A foster-placement provider, residential facility, detention facility, or publicly funded program shall not subject a minor to a prohibited practice.
+________________
+
+
+ARTICLE 10. ENTERPRISE LIABILITY AND ANTI-EVASION
+Section 32. Coordinated Enterprise Liability.
+Where multiple persons or entities materially coordinate a common course of prohibited practice through shared supervision, organizational control, placement, routing, contracting, records, operational planning, or material benefit, liability and discipline under this Act may attach across the coordinated enterprise as permitted by law.
+Section 33. No Evasion by Fragmentation.
+No person or entity may evade this Act by dividing roles among affiliates, volunteers, contractors, ministries, nonprofits, or out-of-state programs where that person or entity materially coordinates, materially controls, materially benefits from, or knowingly materially facilitates the prohibited practice.
+Section 34. Anti-Waiver.
+To the extent permitted by state and federal law, rights, duties, and protections under this Act may not be waived by private agreement.
+________________
+
+
+ARTICLE 11. STATE ENFORCEMENT, REPORTING, AND TRAINING
+Section 35. Civil Enforcement by the State.
+The [Attorney General/Department] may bring a civil action to enforce this Act and may seek:
+1. injunctive relief;
+2. civil penalties of [insert amount] per violation;
+3. restitution;
+4. disgorgement where authorized by law;
+5. record-preservation orders; and
+6. any other relief authorized by law.
+Section 36. Annual Report.
+The [Department] shall publish an annual report containing aggregate, de-identified information regarding:
+1. complaints received;
+2. investigations opened and closed;
+3. disciplinary actions taken;
+4. civil actions filed and resolved;
+5. public funds denied, recouped, or withheld; and
+6. implementation recommendations.
+Section 37. Public Guidance.
+The [Department] shall publish a plain-language guide explaining:
+1. what this Act prohibits;
+2. what this Act does not prohibit;
+3. how to file a complaint;
+4. where minors and families may seek lawful support; and
+5. what providers and institutions must do to comply.
+Section 38. Training.
+Each relevant [Licensing Board] may require periodic training regarding:
+1. the distinction between open-ended counseling and prohibited practices;
+2. informed consent and professional ethics;
+3. records duties;
+4. youth mental health and family support; and
+5. implementation of this Act consistent with constitutional requirements.
+________________
+
+
+ARTICLE 12. TRACK-SPECIFIC FINDINGS AND FALLBACK OPERATION
+Section 39. Track-Specific Legislative Findings.
+(a) Article 4 findings.
+The Legislature finds that minors are especially vulnerable to coercive, aversive, degrading, retaliatory, and leverage-backed practices in covered settings and that the State may regulate such practices without imposing liability based solely on viewpoint.
+(b) Articles 6 and 7 findings.
+The Legislature finds that materially deceptive factual claims, professional breach, consent defects, and records abuse are independently actionable under traditional civil and professional-accountability principles.
+(c) Articles 8 through 11 findings.
+The Legislature finds that records, procedural notice, sealed identities, reporting, public-funding limits, procurement limits, public placements, referrals, and coordinated-enterprise rules are independently necessary to protect minors and preserve reviewable public accountability.
+Section 40. Fallback Operation.
+(a) If any provision of Article 4 is held invalid as applied to speech alone, Article 4 shall continue to apply to nonexpressive coercive conduct, aversive methods, degrading conduct, retaliation, institutional leverage, condition-based practices, and knowing material facilitation to the maximum extent permitted by law.
+(b) Articles 6 through 11 remain independently operative unless separately held invalid.
+(c) Nothing in this Section authorizes liability contrary to the constitutional-boundary rules in Article 1.
+________________
+
+
+ARTICLE 13. INTERNAL SUMMARY, SEVERABILITY, AND EFFECTIVE DATE
+Section 41. Internal Summary.
+This Act protects minors from coercive, degrading, aversive, retaliatory, leverage-backed, and materially deceptive treatment practices; preserves ordinary family and religious life and open-ended counseling without independently prohibited conduct; creates traditional civil and professional accountability for injury, fraud, consent defects, and records abuse; and governs public funding, placement, procurement, and reporting for the protection of minors.
+Section 42. Severability.
+If any provision of this Act or its application to any person or circumstance is held invalid, that invalidity does not affect any other provision or application that can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.
+Section 43. Effective Date.
+This Act takes effect on [insert date].
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration of Generative AI and AI-Assisted Technologies
+During the preparation and revision of this manuscript, the author used generative AI tools to assist with drafting support, language refinement, structural editing, and clarity. All substantive arguments, theoretical claims, scope decisions, drafting choices, and final editorial judgments are the author’s own. The author reviewed and approved the final manuscript and takes full responsibility for its content.
